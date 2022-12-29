@@ -1,0 +1,5 @@
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\BaitapPhanso\obj\Debug\net7.0\BaitapPhanso.csproj.AssemblyReference.cache
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\BaitapPhanso\obj\Debug\net7.0\BaitapPhanso.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\BaitapPhanso\obj\Debug\net7.0\BaitapPhanso.AssemblyInfoInputs.cache
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\BaitapPhanso\obj\Debug\net7.0\BaitapPhanso.AssemblyInfo.cs
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\BaitapPhanso\obj\Debug\net7.0\BaitapPhanso.csproj.CoreCompileInputs.cache

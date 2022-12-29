@@ -1,0 +1,5 @@
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+D:\AFT\8. C#\Thuc hanh\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
