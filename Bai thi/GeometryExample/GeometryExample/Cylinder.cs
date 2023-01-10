@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Examp_CSharp
+namespace GeometryExample
 {
-    internal class Class1
+    internal class Cylinder
     {
     }
 }
