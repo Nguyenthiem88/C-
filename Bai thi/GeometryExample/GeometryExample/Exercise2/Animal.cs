@@ -11,7 +11,7 @@ namespace GeometryExample.Exercise2
         public double weight { get; set; }
         public string name { get; set; }
 
-        public Animal(double weight, string name)
+        public Animal(string name, double weight)
         {
             this.weight = weight;
             this.name = name;
@@ -19,11 +19,12 @@ namespace GeometryExample.Exercise2
 
         public virtual void Show()
         {
-            Console.WriteLine("Weight: " + weight);
             Console.WriteLine("Name: " + name);
+            Console.WriteLine("Weight: " + weight);
+            
         }
 
-        public void SetMe(double weight, string name)
+        public void SetMe(string name, double weight)
         {
             this.weight = weight;
             this.name = name;

@@ -8,7 +8,7 @@ namespace GeometryExample.Exercise2
 {
     internal class Lion: Animal
     {
-        public Lion(double weight, string name) : base(weight, name) { }
+        public Lion( string name, double weight) : base(name, weight) { }
 
         public override void Show()
         {
