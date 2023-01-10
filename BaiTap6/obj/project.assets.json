@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AFT\\8. C#\\Thuc hanh\\ConsoleApp\\BaiTap6\\BaiTap6.csproj",
+      "projectUniqueName": "D:\\AFT\\8. C#\\Thuc hanh\\C-\\BaiTap6\\BaiTap6.csproj",
       "projectName": "BaiTap6",
-      "projectPath": "D:\\AFT\\8. C#\\Thuc hanh\\ConsoleApp\\BaiTap6\\BaiTap6.csproj",
+      "projectPath": "D:\\AFT\\8. C#\\Thuc hanh\\C-\\BaiTap6\\BaiTap6.csproj",
       "packagesPath": "C:\\Users\\Thiêm\\.nuget\\packages\\",
-      "outputPath": "D:\\AFT\\8. C#\\Thuc hanh\\ConsoleApp\\BaiTap6\\obj\\",
+      "outputPath": "D:\\AFT\\8. C#\\Thuc hanh\\C-\\BaiTap6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thiêm\\AppData\\Roaming\\NuGet\\NuGet.Config",
